@@ -12,7 +12,7 @@ on:
 #
 # 2. Change these variables for your configuration:
 env:
-  AZURE_FUNCTIONAPP_NAME: swdemofunctionapp  # set this to your application's name - YOURFUNCTIONAPPNAME
+  AZURE_FUNCTIONAPP_NAME: dh-TollBoothFunctionApp  # set this to your application's name - YOURFUNCTIONAPPNAME
   AZURE_FUNCTIONAPP_PACKAGE_PATH: 'Hands-on-lab/starter/TollBooth/TollBooth'    # set this to the path to your function project, defaults to the repository root
   DOTNET_VERSION: '3.1'                  # set this to the dotnet version to use
 
